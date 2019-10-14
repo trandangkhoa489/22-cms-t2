@@ -1,0 +1,5 @@
+PCA_HELPED_USER_WITH_DEP_COMPONENT_EVENT" value="The Program Compatibility Assistant was invoked to correct a compatibility problem. Information about the application is below.%n%nApplication name: %1%nApplication version: %2%nExecutable path: %3%nScenario ID: %4%nUser action: %5%nCompatibility layer: %6%nDeprecated component: %7" />
+        <string id="_V0_event_UDD_HELPED_USER_WITH_UNSIGNED_DRIVER_EVENT" value="The Program Compatibility Assistant was invoked due to an unsigned driver install. This version of Windows requires all drivers to have a valid digital signature. Information about the driver is below.%n%nDriver: %1%nService: %2%nPublisher: %3%nLocation: %4%nVersion: %5%n%nThis driver is unavailable and the program that uses this driver might not work correctly." />
+        <string id="channel.PCA.Debug" value="Debug" />
+        <string id="description1" value="Contains the file and other metadata that makes up the Application Experience Program Compatibility Assistant." />
+        <string id="description11" value="Default SDDL for Windows Reso
